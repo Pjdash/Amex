@@ -20,13 +20,6 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 ![Product Architecture](assets/prod_archi.png)  
 *Figure: Conceptual architecture of the ML-powered personalized marketing engine.*
 
----
-
-## 👥 Teams Involved
-- **Data Science Team** – Data analysis, ML model design, feature engineering.  
-- **Product Management Team** – Requirement gathering, defining business goals, GTM planning.  
-- **Marketing Team** – Campaign design, customer communication, personalization strategy.  
-- **Engineering Team** – Data pipelines, integration with existing credit card systems.  
 
 ---
 
