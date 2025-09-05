@@ -45,3 +45,5 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 - Structured roadmap for building a **personalized marketing system**.  
 - Clear visibility on **architecture, team responsibilities, and success measures**.  
 - **Scalable GTM strategy** ensuring alignment of business and technical design.
+
+For detailed Presentation refer to "amex" file in the repo
