@@ -17,7 +17,7 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 
 ## 🏗️ Proposed Product Architecture
 
-![Product Architecture](product_architecture.png)  
+![Product Architecture](assets/Screenshot 2025-09-05 172009.png)  
 *Figure: Conceptual architecture of the ML-powered personalized marketing engine.*
 
 ---
