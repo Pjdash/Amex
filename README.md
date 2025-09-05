@@ -8,7 +8,8 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 ---
 
 ## 🔍 What We Did
-- Conducted **behavioral data analysis** on users of the credit card platform.  
+- Conducted **behavioral data analysis** on users of the credit card platform.
+- Solved the question related to the consumer data 
 - Identified key **spending habits, usage frequency, and category preferences**.  
 - Proposed an **ML model architecture** for personalized marketing offers.  
 - Outlined the **teams involved**, **success metrics**, and a **go-to-market (GTM) strategy**.  
