@@ -1,7 +1,7 @@
 # Credit Card Personalized Marketing – Proposal
 
 ## 📌 Project Overview
-This project focused on designing a **personalized marketing solution for a credit card company**. Using behavioral data provided by the company, we analyzed user spending and engagement patterns to propose a **Machine Learning (ML) model architecture** that could generate **personalized offers** for different customer segments.
+This project focused on designing a **Go to market stratergy ** for sending personalised marketing offers to its costumers. Using behavioral data provided by the company, we analyzed user spending and engagement patterns to propose a **Machine Learning (ML) model architecture** that could generate **personalized offers** for different customer segments.
 
 The aim was to improve **customer retention, cross-sell opportunities, and overall engagement** through data-driven personalization.
 
@@ -17,7 +17,7 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 
 ## 🏗️ Proposed Product Architecture
 
-![Product Architecture](assets/Screenshot 2025-09-05 172009.png)  
+![Product Architecture](assets/prod_archi.png)  
 *Figure: Conceptual architecture of the ML-powered personalized marketing engine.*
 
 ---
