@@ -1,7 +1,7 @@
 # Credit Card Personalized Marketing – Proposal
 
 ## 📌 Project Overview
-This project focused on designing a **Go to market stratergy ** for sending personalised marketing offers to its costumers. Using behavioral data provided by the company, we analyzed user spending and engagement patterns to propose a **Machine Learning (ML) model architecture** that could generate **personalized offers** for different customer segments.
+This project focused on designing a Go to market stratergy  for sending personalised marketing offers to its costumers. Using behavioral data provided by the company, we analyzed user spending and engagement patterns to propose a **Machine Learning (ML) model architecture** that could generate **personalized offers** for different customer segments.
 
 The aim was to improve **customer retention, cross-sell opportunities, and overall engagement** through data-driven personalization.
 
@@ -16,7 +16,7 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 
 ---
 
-## 🏗️ Proposed Product Architecture
+## Proposed Product Architecture
 
 ![Product Architecture](assets/prod_archi.png)  
 *Figure: Conceptual architecture of the ML-powered personalized marketing engine.*
@@ -24,7 +24,7 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 
 ---
 
-## 📊 Key Metrics to Track
+## Key Metrics to Track
 - **Customer Engagement Rate** – CTR on offers, site interactions.  
 - **Conversion Rate** – Offer redemption, upsell/cross-sell adoption.  
 - **Customer Retention** – Reduced churn, repeat usage.  
@@ -33,7 +33,7 @@ The aim was to improve **customer retention, cross-sell opportunities, and overa
 
 ---
 
-## 🚀 Go-To-Market (GTM) Strategy
+## Go-To-Market (GTM) Strategy
 1. **Pilot Launch** – Deploy the model for a small customer base to test offer relevance.  
 2. **Feedback Loop** – Collect data on engagement and refine the model.  
 3. **Scaling Phase** – Extend to all customer segments with targeted personalization.  
